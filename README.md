@@ -3,6 +3,7 @@
 Projeto de construção de um óculos de realidade virtual de baixo custo e de experiência topo de linha, integrado aos principais sistemas operacionais onde o processamento real será feito por um dispositivo externo ao óculos e smartphone.
 
 ![Exemplo de óculos VR!](https://github.com/duplow/projection-vr/blob/4c8d42e0e3d27e1373ae9be9939a5c16fd23e9cf/xiaomi-and-oculus-the-next-generation-of-vr-006.jpg)
+*Imagem ilustrativa*
 
 ### Detalhes
 
